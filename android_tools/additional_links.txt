@@ -1,0 +1,3 @@
+https://github.com/skylot/jadx/releases/download/v1.5.3/jadx-gui-1.5.3-with-jre-win.zip
+https://github.com/skylot/jadx/releases/download/v1.5.3/jadx-1.5.3.zip
+https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe
